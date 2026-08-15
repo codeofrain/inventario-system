@@ -1,0 +1,20 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (credenciales)
+.env
+.env.local
+
+# Java / Maven
+target/
+*.class
+
+# Sistema operativo (Mac)
+.DS_Store
+
+# Logs
+logs/*.log
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
